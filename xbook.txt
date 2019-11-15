@@ -1,0 +1,1 @@
+xbook is a 32bits x86 operate system.
